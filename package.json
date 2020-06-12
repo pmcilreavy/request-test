@@ -1,14 +1,16 @@
 {
   "name": "request-test",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Serve up a simple web page.",
+  "private": true,
+  "main": "index.html",
   "scripts": {
     "start": "http-server . -c-1 -a 0.0.0.0 -p 4000"
   },
   "author": "Paul Mcilreavy",
   "license": "ISC",
   "dependencies": {
-    "http-server": "^0.12.3"
+    "http-server": "^0.12.3",
+    "ecstatic": "^4.1.4"
   }
 }
