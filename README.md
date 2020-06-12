@@ -1,5 +1,10 @@
 # request-test
 
-npm install
-npm start
+To run...
+
+`npm install`
+
+then...
+
+`npm start`
 
