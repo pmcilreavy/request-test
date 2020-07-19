@@ -10,7 +10,8 @@
   "author": "Paul Mcilreavy",
   "license": "ISC",
   "dependencies": {
-    "http-server": "^0.12.3",
-    "ecstatic": "^4.1.4"
+    "http-server": "latest",
+    "ecstatic": "latest",
+    "lodash": "latest"
   }
 }
